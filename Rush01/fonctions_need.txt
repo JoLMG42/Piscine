@@ -1,7 +1,0 @@
-fonction qui cree un tableau
-fonction qui check les input   ./a.out	"1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4"( que des chiffres compris en 1 et 4 inclu, pas d'espaces en trop, bon format"
-fonction qui transforme chain rentree en argument en tableau d'int
-fonction qui check les differentes regles du sky crapper game(double sur meme ligne ou colonne...) une fonction qui appelle 4 regles :
-une fonction qui check si on a le bon nombre de tours vue par rapport a notre input en haut en bas a gauche, et a droite
-fonction qui resou le jeu en fonction des inputs envoyer, renvoie error si impossible a resoudre.
-fonction qui affiche le tableau cree
